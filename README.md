@@ -1,2 +1,4 @@
-# CS-305
-Final project 
+# A summary of the Artemis Financial software requirements.
+
+Artemis Financial was requesting a check on vulnerabilities in their web app. Artemis is a Financial group that needs its web application checked to ensure the application is safe and does not have any risk of leaking vital information. Since the company deals with financial. They wanted to make sure the security of the application was there. They wanted to have extra measures added to improve the security behind the web app. The application was changed to a 256bit key to add the measure and a certified key was included for extra secure measures. The certified key was a bit challenging. With enough trial and error, the certificate key was included. I wouldn't do anything different. Testing with various applications such as Maven was done to make sure the the software was functional and secure. An extra step was done using the Maven. 
+
